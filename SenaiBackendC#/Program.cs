@@ -7,13 +7,12 @@ namespace e {
         {
 
             Console.WriteLine();
-
             int num1,num2,num3;
-
             int soma;
+            String nomealuno;
 
             Console.Write("Digite o nome Do Aluno: ");
-            String nomealuno = Console.ReadLine();
+            nomealuno = Console.ReadLine();
 
             Console.Write("Digite Sua Nota 1: ");
             num1 = int.Parse(Console.ReadLine());
