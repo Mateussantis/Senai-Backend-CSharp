@@ -6,7 +6,7 @@ namespace Ex2
     {
         static void Main(string[] args)
         {
-
+            
             int porcentagem;
             float valor;
             float valornovo;
