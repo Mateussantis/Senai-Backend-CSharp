@@ -19,7 +19,6 @@ namespace Ex8
             Console.WriteLine();
 
             media = (valor1 + valor2 + valor3) / 3;
-            Console.WriteLine("Sua media final foi de: " +media);
 
             if(media >= 6) {
                 texto = "Aprovado";
