@@ -7,12 +7,13 @@ namespace Ex8
         static void Main(string[] args)
         {
             double valor1, valor2, valor3, media;
+            String texto;
 
-            Console.Write("Escreva o numero: ");
+            Console.Write("Escreva seu primeiro numero: ");
             valor1 = double.Parse(Console.ReadLine());
-            Console.Write("Escreva o numero: ");
+            Console.Write("Escreva seu segundo numero: ");
             valor2 = double.Parse(Console.ReadLine());
-            Console.Write("Escreva o numero: ");
+            Console.Write("Escreva seu terceiro numero: ");
             valor3 = double.Parse(Console.ReadLine());
 
             Console.WriteLine();
@@ -21,14 +22,15 @@ namespace Ex8
             Console.WriteLine("Sua media final foi de: " +media);
 
             if(media >= 6) {
-                Console.WriteLine("Passou de ano!");
+                texto = "Aprovado";
             }
             else if (media < 6 && media >= 4) {
-                Console.WriteLine("Exame!");
+                texto = "Exame!";
             }
             else {
-                Console.WriteLine("Reprovado!");
+                texto = "Reprovado!";
             }
+            Console.WriteLine($" Voce {texto} - Sua media foi {media}");
         }
     }
 }
