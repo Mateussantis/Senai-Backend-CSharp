@@ -23,6 +23,9 @@ namespace Ex8
             if(media >= 6) {
                 Console.WriteLine("Passou de ano!");
             }
+            else if (media < 6 && media >= 4) {
+                Console.WriteLine("Exame!");
+            }
             else {
                 Console.WriteLine("Reprovado!");
             }
