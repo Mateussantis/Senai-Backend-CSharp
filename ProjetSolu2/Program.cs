@@ -16,6 +16,7 @@ namespace ProjetSolu2
                 Console.WriteLine();
                 Console.WriteLine("Perfil (1)");
                 Console.WriteLine("Sair (sair)");
+                Console.WriteLine();
                 String opcao;
                 Console.Write("Escolha uma opção do menu: ");
                 opcao = Console.ReadLine();
@@ -38,6 +39,7 @@ namespace ProjetSolu2
                 Console.WriteLine("Gerenciar produtos (1)");
                 Console.WriteLine("Sair (sair)");
                 String opcao;
+                Console.WriteLine();
                 Console.Write("Escolha uma opção do menu: ");
                 opcao = Console.ReadLine();
                     if (opcao == "1"){
