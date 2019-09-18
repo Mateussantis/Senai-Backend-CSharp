@@ -9,3 +9,14 @@ C:\Users\fic\Desktop\Senai-Backend-CSharp\ProjetSolu\bin\Debug\netcoreapp2.2\Pro
 C:\Users\fic\Desktop\Senai-Backend-CSharp\ProjetSolu\bin\Debug\netcoreapp2.2\ProjetSolu.pdb
 C:\Users\fic\Desktop\Senai-Backend-CSharp\ProjetSolu\obj\Debug\netcoreapp2.2\ProjetSolu.dll
 C:\Users\fic\Desktop\Senai-Backend-CSharp\ProjetSolu\obj\Debug\netcoreapp2.2\ProjetSolu.pdb
+C:\Users\user\Desktop\Senai-Backend-CSharp\ProjetSolu\bin\Debug\netcoreapp2.2\ProjetSolu.deps.json
+C:\Users\user\Desktop\Senai-Backend-CSharp\ProjetSolu\bin\Debug\netcoreapp2.2\ProjetSolu.runtimeconfig.json
+C:\Users\user\Desktop\Senai-Backend-CSharp\ProjetSolu\bin\Debug\netcoreapp2.2\ProjetSolu.runtimeconfig.dev.json
+C:\Users\user\Desktop\Senai-Backend-CSharp\ProjetSolu\bin\Debug\netcoreapp2.2\ProjetSolu.dll
+C:\Users\user\Desktop\Senai-Backend-CSharp\ProjetSolu\bin\Debug\netcoreapp2.2\ProjetSolu.pdb
+C:\Users\user\Desktop\Senai-Backend-CSharp\ProjetSolu\obj\Debug\netcoreapp2.2\ProjetSolu.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Senai-Backend-CSharp\ProjetSolu\obj\Debug\netcoreapp2.2\ProjetSolu.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Senai-Backend-CSharp\ProjetSolu\obj\Debug\netcoreapp2.2\ProjetSolu.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Senai-Backend-CSharp\ProjetSolu\obj\Debug\netcoreapp2.2\ProjetSolu.AssemblyInfo.cs
+C:\Users\user\Desktop\Senai-Backend-CSharp\ProjetSolu\obj\Debug\netcoreapp2.2\ProjetSolu.dll
+C:\Users\user\Desktop\Senai-Backend-CSharp\ProjetSolu\obj\Debug\netcoreapp2.2\ProjetSolu.pdb
