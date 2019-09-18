@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Tete\bin\Debug\netcoreapp2.2\Tete.deps.json
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Tete\bin\Debug\netcoreapp2.2\Tete.runtimeconfig.json
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Tete\bin\Debug\netcoreapp2.2\Tete.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Tete\bin\Debug\netcoreapp2.2\Tete.dll
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Tete\bin\Debug\netcoreapp2.2\Tete.pdb
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Tete\obj\Debug\netcoreapp2.2\Tete.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Tete\obj\Debug\netcoreapp2.2\Tete.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Tete\obj\Debug\netcoreapp2.2\Tete.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Tete\obj\Debug\netcoreapp2.2\Tete.AssemblyInfo.cs
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Tete\obj\Debug\netcoreapp2.2\Tete.dll
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Tete\obj\Debug\netcoreapp2.2\Tete.pdb
