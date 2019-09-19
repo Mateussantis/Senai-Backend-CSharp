@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\Senai-Backend-CSharp\\ProjetSolu2\\ProjetSolu2.csproj": {}
+    "C:\\Users\\fic\\Desktop\\Senai-Backend-CSharp\\ProjetSolu2\\ProjetSolu2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\Senai-Backend-CSharp\\ProjetSolu2\\ProjetSolu2.csproj": {
+    "C:\\Users\\fic\\Desktop\\Senai-Backend-CSharp\\ProjetSolu2\\ProjetSolu2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Senai-Backend-CSharp\\ProjetSolu2\\ProjetSolu2.csproj",
+        "projectUniqueName": "C:\\Users\\fic\\Desktop\\Senai-Backend-CSharp\\ProjetSolu2\\ProjetSolu2.csproj",
         "projectName": "ProjetSolu2",
-        "projectPath": "C:\\Users\\user\\Desktop\\Senai-Backend-CSharp\\ProjetSolu2\\ProjetSolu2.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Senai-Backend-CSharp\\ProjetSolu2\\obj\\",
+        "projectPath": "C:\\Users\\fic\\Desktop\\Senai-Backend-CSharp\\ProjetSolu2\\ProjetSolu2.csproj",
+        "packagesPath": "C:\\Users\\fic\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fic\\Desktop\\Senai-Backend-CSharp\\ProjetSolu2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\fic\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
