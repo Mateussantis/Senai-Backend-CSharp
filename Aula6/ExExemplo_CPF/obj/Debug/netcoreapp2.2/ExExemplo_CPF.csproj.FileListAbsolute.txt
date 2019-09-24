@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula6\ExExemplo_CPF\obj\Debug\netcoreapp2.2\ExExemplo_CPF.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula6\ExExemplo_CPF\obj\Debug\netcoreapp2.2\ExExemplo_CPF.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula6\ExExemplo_CPF\obj\Debug\netcoreapp2.2\ExExemplo_CPF.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula6\ExExemplo_CPF\obj\Debug\netcoreapp2.2\ExExemplo_CPF.AssemblyInfo.cs
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula6\ExExemplo_CPF\bin\Debug\netcoreapp2.2\ExExemplo_CPF.deps.json
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula6\ExExemplo_CPF\bin\Debug\netcoreapp2.2\ExExemplo_CPF.runtimeconfig.json
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula6\ExExemplo_CPF\bin\Debug\netcoreapp2.2\ExExemplo_CPF.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula6\ExExemplo_CPF\bin\Debug\netcoreapp2.2\ExExemplo_CPF.dll
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula6\ExExemplo_CPF\bin\Debug\netcoreapp2.2\ExExemplo_CPF.pdb
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula6\ExExemplo_CPF\obj\Debug\netcoreapp2.2\ExExemplo_CPF.dll
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula6\ExExemplo_CPF\obj\Debug\netcoreapp2.2\ExExemplo_CPF.pdb
