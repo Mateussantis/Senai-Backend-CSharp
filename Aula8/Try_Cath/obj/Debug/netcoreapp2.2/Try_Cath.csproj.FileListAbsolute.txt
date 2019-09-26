@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula8\Try_Cath\bin\Debug\netcoreapp2.2\Try_Cath.deps.json
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula8\Try_Cath\bin\Debug\netcoreapp2.2\Try_Cath.runtimeconfig.json
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula8\Try_Cath\bin\Debug\netcoreapp2.2\Try_Cath.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula8\Try_Cath\bin\Debug\netcoreapp2.2\Try_Cath.dll
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula8\Try_Cath\bin\Debug\netcoreapp2.2\Try_Cath.pdb
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula8\Try_Cath\obj\Debug\netcoreapp2.2\Try_Cath.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula8\Try_Cath\obj\Debug\netcoreapp2.2\Try_Cath.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula8\Try_Cath\obj\Debug\netcoreapp2.2\Try_Cath.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula8\Try_Cath\obj\Debug\netcoreapp2.2\Try_Cath.AssemblyInfo.cs
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula8\Try_Cath\obj\Debug\netcoreapp2.2\Try_Cath.dll
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula8\Try_Cath\obj\Debug\netcoreapp2.2\Try_Cath.pdb

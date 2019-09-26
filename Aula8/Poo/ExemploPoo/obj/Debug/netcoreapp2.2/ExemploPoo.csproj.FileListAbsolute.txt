@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula8\Poo\ExemploPoo\obj\Debug\netcoreapp2.2\ExemploPoo.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula8\Poo\ExemploPoo\obj\Debug\netcoreapp2.2\ExemploPoo.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula8\Poo\ExemploPoo\obj\Debug\netcoreapp2.2\ExemploPoo.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula8\Poo\ExemploPoo\obj\Debug\netcoreapp2.2\ExemploPoo.AssemblyInfo.cs
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula8\Poo\ExemploPoo\bin\Debug\netcoreapp2.2\ExemploPoo.deps.json
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula8\Poo\ExemploPoo\bin\Debug\netcoreapp2.2\ExemploPoo.runtimeconfig.json
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula8\Poo\ExemploPoo\bin\Debug\netcoreapp2.2\ExemploPoo.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula8\Poo\ExemploPoo\bin\Debug\netcoreapp2.2\ExemploPoo.dll
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula8\Poo\ExemploPoo\bin\Debug\netcoreapp2.2\ExemploPoo.pdb
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula8\Poo\ExemploPoo\obj\Debug\netcoreapp2.2\ExemploPoo.dll
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula8\Poo\ExemploPoo\obj\Debug\netcoreapp2.2\ExemploPoo.pdb

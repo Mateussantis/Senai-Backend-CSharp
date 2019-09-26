@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula6\ExCnpj\bin\Debug\netcoreapp2.2\ExCnpj.deps.json
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula6\ExCnpj\bin\Debug\netcoreapp2.2\ExCnpj.runtimeconfig.json
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula6\ExCnpj\bin\Debug\netcoreapp2.2\ExCnpj.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula6\ExCnpj\bin\Debug\netcoreapp2.2\ExCnpj.dll
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula6\ExCnpj\bin\Debug\netcoreapp2.2\ExCnpj.pdb
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula6\ExCnpj\obj\Debug\netcoreapp2.2\ExCnpj.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula6\ExCnpj\obj\Debug\netcoreapp2.2\ExCnpj.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula6\ExCnpj\obj\Debug\netcoreapp2.2\ExCnpj.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula6\ExCnpj\obj\Debug\netcoreapp2.2\ExCnpj.AssemblyInfo.cs
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula6\ExCnpj\obj\Debug\netcoreapp2.2\ExCnpj.dll
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula6\ExCnpj\obj\Debug\netcoreapp2.2\ExCnpj.pdb
