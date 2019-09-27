@@ -14,7 +14,7 @@ namespace Ex1
             Console.WriteLine(calculo(valor, porcentagem));
             }
             catch (Exception ex) {
-                Console.WriteLine("Digite Valores numericos, não caracteres!!!");
+                Console.WriteLine("\n\nDigite Valores numericos, não caracteres!!!\n\n" ,ex);
             }
         }
 
