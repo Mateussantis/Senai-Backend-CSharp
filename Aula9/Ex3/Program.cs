@@ -27,7 +27,7 @@ namespace Ex3
             }
 
             catch(Exception ex) {
-                Console.WriteLine("Erro, digite as informaçoes corretamente!!!" , ex); 
+                Console.WriteLine("Erro, digite as informaçoes corretamente!!!" ); 
             }
 
             

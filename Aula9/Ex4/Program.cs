@@ -6,7 +6,7 @@ namespace Ex4
     {
         static void Main(string[] args)
         {
-            double[] v1 = {1,2,3,4,9,6,7,8};
+            double[] v1 = {4, 5, 6};
             System.Console.WriteLine(Maior(v1));
         }
 
