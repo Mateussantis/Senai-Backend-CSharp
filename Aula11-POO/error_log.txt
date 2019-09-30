@@ -1,0 +1,7 @@
+segunda-feira, 30 de setembro de 2019
+12:01
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(ReadOnlySpan`1 value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Double.Parse(String s)
+   at Aula11_POO.Ex.Controlers.ProdutosController.CadastrarProduto() in C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula11-POO\Ex\Controlers\ProdutosController.cs:line 19
+

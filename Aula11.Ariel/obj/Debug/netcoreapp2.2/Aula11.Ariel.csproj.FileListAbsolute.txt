@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula11.Ariel\bin\Debug\netcoreapp2.2\Aula11.Ariel.deps.json
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula11.Ariel\bin\Debug\netcoreapp2.2\Aula11.Ariel.runtimeconfig.json
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula11.Ariel\bin\Debug\netcoreapp2.2\Aula11.Ariel.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula11.Ariel\bin\Debug\netcoreapp2.2\Aula11.Ariel.dll
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula11.Ariel\bin\Debug\netcoreapp2.2\Aula11.Ariel.pdb
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula11.Ariel\obj\Debug\netcoreapp2.2\Aula11.Ariel.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula11.Ariel\obj\Debug\netcoreapp2.2\Aula11.Ariel.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula11.Ariel\obj\Debug\netcoreapp2.2\Aula11.Ariel.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula11.Ariel\obj\Debug\netcoreapp2.2\Aula11.Ariel.AssemblyInfo.cs
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula11.Ariel\obj\Debug\netcoreapp2.2\Aula11.Ariel.dll
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula11.Ariel\obj\Debug\netcoreapp2.2\Aula11.Ariel.pdb
