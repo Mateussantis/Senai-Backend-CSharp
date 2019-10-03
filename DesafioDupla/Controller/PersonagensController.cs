@@ -1,6 +1,7 @@
+using System;
 using DesafioDupla.Model;
 namespace DesafioDupla.Controller {
-    public class PersonagensController : HomemdeferroController {
+    public class PersonagensController {
         PersonagensModel personagem = new PersonagensModel ();
 
         public void Jogador () {
@@ -11,12 +12,12 @@ namespace DesafioDupla.Controller {
             if (escolha == "1") {
                 HomemdeferroController homemdeferro = new HomemdeferroController ();
                 System.Console.WriteLine ("Você esolheu Homem de Ferro ");
-                Comandos ("a", "a");
+                homemdeferro.Comandos ();
             } else if (escolha == "2") {
                 CapitaoamericaController capitaoamerica = new CapitaoamericaController ();
                 System.Console.WriteLine ("Você escolheu Capitão América ");
-                Comandos ("a");
+                capitaoamerica.Comandos ();
             }
-        }
+        }     
     }
 }
