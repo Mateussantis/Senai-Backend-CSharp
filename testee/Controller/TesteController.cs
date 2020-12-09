@@ -15,8 +15,9 @@ namespace testee.Controller
                 System.Console.Write("Digite um Numero: ");
                 testei.numero = Console.ReadLine();
                 teste.Add(new TesteModel(testei.nome, testei.numero));
-                System.Console.Write("Quer Continuar adicionando ?");
+                System.Console.Write("\nQuer Continuar adicionando ? || R: ");
                 x = Console.ReadLine();
+                System.Console.WriteLine();
             }
         }
 

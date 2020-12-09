@@ -9,3 +9,14 @@ C:\Users\fic\Desktop\testee\obj\Debug\netcoreapp2.2\testee.AssemblyInfoInputs.ca
 C:\Users\fic\Desktop\testee\obj\Debug\netcoreapp2.2\testee.AssemblyInfo.cs
 C:\Users\fic\Desktop\testee\obj\Debug\netcoreapp2.2\testee.dll
 C:\Users\fic\Desktop\testee\obj\Debug\netcoreapp2.2\testee.pdb
+C:\Users\user\Desktop\Senai-Backend-CSharp\testee\bin\Debug\netcoreapp2.2\testee.deps.json
+C:\Users\user\Desktop\Senai-Backend-CSharp\testee\bin\Debug\netcoreapp2.2\testee.runtimeconfig.json
+C:\Users\user\Desktop\Senai-Backend-CSharp\testee\bin\Debug\netcoreapp2.2\testee.runtimeconfig.dev.json
+C:\Users\user\Desktop\Senai-Backend-CSharp\testee\bin\Debug\netcoreapp2.2\testee.dll
+C:\Users\user\Desktop\Senai-Backend-CSharp\testee\bin\Debug\netcoreapp2.2\testee.pdb
+C:\Users\user\Desktop\Senai-Backend-CSharp\testee\obj\Debug\netcoreapp2.2\testee.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Senai-Backend-CSharp\testee\obj\Debug\netcoreapp2.2\testee.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Senai-Backend-CSharp\testee\obj\Debug\netcoreapp2.2\testee.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Senai-Backend-CSharp\testee\obj\Debug\netcoreapp2.2\testee.AssemblyInfo.cs
+C:\Users\user\Desktop\Senai-Backend-CSharp\testee\obj\Debug\netcoreapp2.2\testee.dll
+C:\Users\user\Desktop\Senai-Backend-CSharp\testee\obj\Debug\netcoreapp2.2\testee.pdb
