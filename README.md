@@ -1,2 +1,3 @@
 # Senai-Backend-CSharp
-Conteúdo desenvolvido  no curso Code Experience
+
+Resoluções próprias desenvolvidas no curso Code Experience.
